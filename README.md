@@ -6,4 +6,5 @@ This is my C++ solutions to Monthly Challenges of LeetCode. Each challenge consi
 
 ## Current State
 
-The Repo now has full May Challenge problems solutions. As soon as June challenge starts, I will continuously upload solutions of its problems
+ - The Repo now has full May Challenge problems solutions.
+ - The Repo has week 1 solutions of June challenge.
